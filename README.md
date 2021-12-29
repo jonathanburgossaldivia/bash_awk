@@ -25,7 +25,7 @@ These are the default options, the CLI flags to set them are:
 
 ### Script Initialization
 
-The bottom of the script template file contains a block which initializes the script. Comment, uncomment, or change the settings here for your needs
+Multiple script usage examples:
 
 ```bash
 # Reading the CSV file:
